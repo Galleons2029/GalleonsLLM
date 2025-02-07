@@ -93,5 +93,5 @@ if __name__ == "__main__":
         "routers:api_router",
         host="0.0.0.0",
         port=9011,
-        reload=True,
+        # reload=True,
     )

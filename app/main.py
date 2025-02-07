@@ -4,5 +4,8 @@
 # @File    : main.py
 
 """
-这里是文件说明
+LLM接口
 """
+
+import pika
+
